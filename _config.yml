@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "원경이의 시계열 분석(TSF: Time-series Forecast) 요약"
+title                    : "시계열 분석(TSF: Time-series Forecast) 요약"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "WonKyung-Sung"
